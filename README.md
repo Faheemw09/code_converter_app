@@ -1,12 +1,11 @@
-# Code Converter App
+# CodeMorpher
 
-This is a code converter app that allows you to easily convert code snippets between different programming languages. It uses the power of OpenAI's GPT-3.5 to perform the conversions.
+CodeMorpher is a code conversion app that allows you to easily convert code snippets between different programming languages. It uses the power of OpenAI's GPT-3.5 to perform the conversions.
 
 ## Demo
 
-
 You can try out the app by visiting the following link:
-[Code Converter App Demo](https://code-converter-frontend-three.vercel.app/)
+[CodeMorpher Demo](https://code-converter-frontend-three.vercel.app/)
 
 ## Features
 
@@ -31,13 +30,15 @@ To run the app locally or deploy it to your own server, follow these steps:
    ```bash
    git clone https://github.com/your-username/code-converter-app.git
    cd code-converter-app
+
+   
 Install dependencies:
-
-bash
-Copy code
 npm install
-Start the development server:
 
-bash
-Copy code
+Start the development server:
 npm start
+Open your web browser and access the app at http://localhost:3000.
+
+
+
+
