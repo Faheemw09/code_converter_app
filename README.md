@@ -4,8 +4,9 @@ This is a code converter app that allows you to easily convert code snippets bet
 
 ## Demo
 
+
 You can try out the app by visiting the following link:
-[Code Converter App]([https://code-converter-frontend-three.vercel.app/]))
+[Code Converter App Demo](https://code-converter-frontend-three.vercel.app/)
 
 ## Features
 
