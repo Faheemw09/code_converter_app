@@ -19,7 +19,7 @@ You can try out the app by visiting the following link:
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js ,Express
 - **API**: OpenAI's GPT-3.5
-- **Deployment**: Vercel (frontend), [Your Backend Hosting Platform] (if applicable)
+
 
 ## Getting Started
 
